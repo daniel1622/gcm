@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+
+
+    <color name="window_backgraound">#dcecf7</color>
+    <color name="colorPrimary">#42A5F8</color>
+    <color name="colorPrimaryDark">#1390F6</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <color name="ImageBorder">#E8EAF6</color>
+</resources>
